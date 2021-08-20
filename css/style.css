@@ -31,3 +31,13 @@ img {
    border: 1px solid #ffffff66;
    color: #0000009c;
 }
+
+@media only screen and (max-width: 600px) {
+   .Iam {
+      font-size: 60px;
+   }
+
+   body {
+      padding: 20px;
+   }
+}
